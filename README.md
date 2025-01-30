@@ -6,4 +6,4 @@ enter plain text source code, compile, get a bunch of errors first, and finally
 end up with a beautiful PDF output (plus a MIDI file!).
 
 Source files are in .ly format. Feel free to modify. If you like any of the pieces, I am always
-happy to hear from you at <first_name> dot zypen at gmail!
+happy to hear from you at <my_github_handle> at gmail!
